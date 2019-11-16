@@ -4,3 +4,4 @@ from django.db import models
 
 class Product(models.Model):
     name = 1
+    asgfahs ="fsafaas"
